@@ -29,6 +29,8 @@ Research
 
 News
 ------
+- (2024/1/5) A paper accepted by **CMIG**
+- (2023/12/9) Gaze Contrastive Learning paper accepted by **AAAI**
 - (2023/9/27) A paper accepted by **IEEE JBHI**
 - (2023/8/10) A paper accepted by **ACS Sensors**
 - Our Chinese Chinical ChatBot DoctorGLM got 512 github stars!
