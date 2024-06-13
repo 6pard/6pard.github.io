@@ -29,6 +29,11 @@ Research
 
 News
 ------
+- (2024/6/11) A paper accepted by **Communications Engineering** (ChatCAD)
+- (2024/5/15) A paper accepted by **MICCAI** (GazeDETR)
+- (2024/5/5) A paper accepted by **TMI** (ChatCAD+)
+- (2024/4/2) A paper accepted by **Medical Image Analysis**
+- (2024/2/2) Two paper accepted by **ISBI** (Melo for Oral representation)
 - (2024/1/5) A paper accepted by **CMIG**
 - (2023/12/9) Gaze Contrastive Learning paper accepted by **AAAI**
 - (2023/9/27) A paper accepted by **IEEE JBHI**
