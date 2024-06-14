@@ -13,8 +13,8 @@ My research interests encompass healthcare machine learning systems and general 
 
 I am also fascinated by neuroscience, computer graphics, hardware circuit design, and internal combustion engines, I have yet to become an expert in these fields😢.
 
-I am curretnly a PhD candidate at Shanghai Jiao Tong University, supervised by [Prof. Dinggang Shen](http://idea.bme.shanghaitech.edu.cn) and [Prof. Qian Wang](https://qianwang.space). 
-Prior to this, I completed my BS degree from Northeastern University (Shenyang, China) and Chinese Academy of Sciences (Shenzhen Institute of Advanced Technology) in 2015. In my free time, I enjoy programming⌨️ (currently ![Github stars](https://img.shields.io/github/stars/jamesqfreeman?style=social) stars🌟), running🏃, swimming🏊, weightlifting🏋️, motorsports🏁 and cooking🍳.
+I am curretnly a postdoc research at University of Pennsylvania, working with [Prof. Zhi Huang](https://www.zhihuang.ai). I got my PhD from Shanghai Jiao Tong University, supervised by [Prof. Dinggang Shen](http://idea.bme.shanghaitech.edu.cn) and [Prof. Qian Wang](https://qianwang.space). 
+In my free time, I enjoy programming⌨️ (currently ![Github stars](https://img.shields.io/github/stars/jamesqfreeman?style=social) stars🌟), running🏃, swimming🏊, weightlifting🏋️, motorsports🏁 and cooking🍳.
 
 
 
