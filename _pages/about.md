@@ -52,5 +52,7 @@ Reviewer for:
 - Neural Networks,
 - Pattern Recognitiion,
 - Medical Image Computing and Computer Assisted Interventions (MICCAI).
+- ECCV
+- CVPR
 
 
