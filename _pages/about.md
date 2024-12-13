@@ -29,10 +29,11 @@ Research
 
 News
 ------
+- (2024/12/10) A paper accepted by **AAAI** (3D Human Reconstruction from Video)
 - (2024/6/11) A paper accepted by **Communications Engineering** (ChatCAD)
 - (2024/5/15) A paper accepted by **MICCAI** (GazeDETR)
 - (2024/5/5) A paper accepted by **TMI** (ChatCAD+)
-- (2024/4/2) A paper accepted by **Medical Image Analysis**
+- (2024/4/2) A paper accepted by **Medical Image Analysis** (3D MRI Image Super-resolution)
 - (2024/2/2) Two paper accepted by **ISBI** (Melo for Oral representation)
 - (2024/1/5) A paper accepted by **CMIG**
 - (2023/12/9) Gaze Contrastive Learning paper accepted by **AAAI**
