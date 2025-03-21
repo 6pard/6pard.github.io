@@ -29,19 +29,24 @@ Research
 
 News
 ------
-- (2024/12/10) A paper accepted by **AAAI** (3D Human Reconstruction from Video)
-- (2024/6/11) A paper accepted by **Communications Engineering** (ChatCAD)
-- (2024/5/15) A paper accepted by **MICCAI** (GazeDETR)
-- (2024/5/5) A paper accepted by **TMI** (ChatCAD+)
-- (2024/4/2) A paper accepted by **Medical Image Analysis** (3D MRI Image Super-resolution)
-- (2024/2/2) Two paper accepted by **ISBI** (Melo for Oral representation)
-- (2024/1/5) A paper accepted by **CMIG**
-- (2023/12/9) Gaze Contrastive Learning paper accepted by **AAAI**
-- (2023/9/27) A paper accepted by **IEEE JBHI**
-- (2023/8/10) A paper accepted by **ACS Sensors**
+- (2025/3) selected as an **Penn AI x Science x Medicine Postdoctoral Research Fellow**
+- (2025/2) AAAI Oral@Philadelphia
+- (2025/2) ChatCAD is awarded as paper of the year **Communications Engineering**
+- (2025/1) Eye-tracking guided contrastive learning accepted by **TMI**
+- (2025/1) Eye-tracking in Data Augementation Paper accepted by **Pattern Recognition**
+- (2024/12) A paper accepted by **AAAI** (3D Human Reconstruction from Video)
+- (2024/6) A paper accepted by **Communications Engineering** (ChatCAD)
+- (2024/5) A paper accepted by **MICCAI** (GazeDETR)
+- (2024/5) A paper accepted by **TMI** (ChatCAD+)
+- (2024/4) A paper accepted by **Medical Image Analysis** (3D MRI Image Super-resolution)
+- (2024/2) Two paper accepted by **ISBI** (Melo for Oral representation)
+- (2024/1) A paper accepted by **CMIG**
+- (2023/12) Gaze Contrastive Learning paper accepted by **AAAI**
+- (2023/9) A paper accepted by **IEEE JBHI**
+- (2023/8) A paper accepted by **ACS Sensors**
 - Our Chinese Chinical ChatBot DoctorGLM got 512 github stars!
-- (2023/6/24) 6 Papers accepted by **MICCAI** 
-- (2023/6/14) *Eye-gaze-guided Vision Transformer* accepted by **TMI** 
+- (2023/6) 6 Papers accepted by **MICCAI** 
+- (2023/6) *Eye-gaze-guided Vision Transformer* accepted by **TMI** 
 
 Activities
 ------
