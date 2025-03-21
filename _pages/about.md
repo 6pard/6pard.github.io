@@ -30,6 +30,7 @@ Research
 News
 ------
 - (2025/3) selected as an **Penn AI x Science x Medicine Postdoctoral Research Fellow**
+- (2025/3) A paper accepted by **CVPR**
 - (2025/2) AAAI Oral@Philadelphia
 - (2025/2) ChatCAD is awarded as paper of the year **Communications Engineering**
 - (2025/1) Eye-tracking guided contrastive learning accepted by **TMI**
