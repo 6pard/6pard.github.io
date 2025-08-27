@@ -10,7 +10,7 @@ author_profile: true
 ## **Selected Projects**
 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
-  <img src="/images/project_eyecad.png" alt="EyeCAD" style="width: 150px; height: auto; margin-right: 15px;">
+  <img src="/images/2022-LGF.png" alt="EyeCAD" style="width: 150px; height: auto; margin-right: 15px;">
   <div>
     <b style="color: #4a4a83;">EyeCAD: Eye-tracking Assisted CAD Interaction</b>
     <br>
@@ -25,7 +25,7 @@ author_profile: true
 </div>
 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
-  <img src="/images/project_monitor.png" alt="Factory Monitor" style="width: 150px; height: auto; margin-right: 15px;">
+  <img src="/images/2022-SAINR.png" alt="Factory Monitor" style="width: 150px; height: auto; margin-right: 15px;">
   <div>
     <b style="color: #4a4a83;">Smart Factory Monitoring Dashboard</b>
     <br>
@@ -40,7 +40,7 @@ author_profile: true
 </div>
 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
-  <img src="/images/project_app.png" alt="CampusApp" style="width: 150px; height: auto; margin-right: 15px;">
+  <img src="/images/2023-RCPS.png" alt="CampusApp" style="width: 150px; height: auto; margin-right: 15px;">
   <div>
     <b style="color: #4a4a83;">Campus Utility App</b>
     <br>
