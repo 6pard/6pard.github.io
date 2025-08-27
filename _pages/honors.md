@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "CV"
-permalink: /cv/
+title: "Honors and Awards"
+permalink: /honors/
 author_profile: true
 redirect_from:
   - /resume
@@ -9,7 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-# Honors and Awards
 - **2024.06** First Prize, NovaTech Robotics Innovation Challenge, Team Leader  
 - **2023.12** Second Prize, Zenith Cup Mathematical Modeling Contest, Participant  
 - **2023.08** Second Prize, Global Collegiate AI Innovation Tournament, Participant  
