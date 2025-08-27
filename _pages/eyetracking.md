@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "CAD with Eye-tracking"
-permalink: /eyetracking/
+title: "Projects"
+permalink: /projects/
 author_profile: true
 ---
 
@@ -10,44 +10,45 @@ author_profile: true
 ## **Selected Projects**
 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
-  <img src="/images/project_generavid.png" alt="GeneraVid" style="width: 150px; height: auto; margin-right: 15px;">
+  <img src="/images/project_eyecad.png" alt="EyeCAD" style="width: 150px; height: auto; margin-right: 15px;">
   <div>
-    <b style="color: #4a4a83;">GeneraVid: Diffusion-based Short Video Generation</b>
+    <b style="color: #4a4a83;">EyeCAD: Eye-tracking Assisted CAD Interaction</b>
     <br>
     <p>
-      This project focuses on building a lightweight video generation system based on diffusion models. 
-      It supports controllable video synthesis under constraints such as text prompts and scene structures. 
-      I was mainly responsible for designing the data preprocessing pipeline, fine-tuning the diffusion backbone,
-      and implementing the Flask-based API for serving the model in a user-friendly interface.
+      Developed an engineering prototype that integrates an eye-tracking device with a CAD system 
+      to improve human–computer interaction. The system allows users to quickly locate and zoom into 
+      specific regions of a CAD model using gaze information. 
+      I implemented the data capture pipeline from the Tobii eye tracker, built the mapping algorithm 
+      to synchronize gaze with 3D viewport operations, and deployed a plugin that runs inside Autodesk Fusion 360.
     </p>
   </div>
 </div>
 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
-  <img src="/images/project_pointcloud.png" alt="Point Cloud" style="width: 150px; height: auto; margin-right: 15px;">
+  <img src="/images/project_monitor.png" alt="Factory Monitor" style="width: 150px; height: auto; margin-right: 15px;">
   <div>
-    <b style="color: #4a4a83;">CloudPoint: Robust Point Cloud Recognition</b>
+    <b style="color: #4a4a83;">Smart Factory Monitoring Dashboard</b>
     <br>
     <p>
-      A research-driven project aiming to improve point cloud classification under noisy and incomplete data.
-      The work integrated transformer-based attention modules into a 3D backbone network.
-      My role was to lead the algorithm design, conduct experiments on ShapeNet and ModelNet benchmarks,
-      and optimize inference performance for deployment in robotics.
+      Designed and deployed a lightweight monitoring system for factory equipment, integrating 
+      sensor data (temperature, vibration, workload) into a real-time dashboard. 
+      I was responsible for building the backend data collection service in Python, 
+      connecting it to MQTT brokers, and implementing a React-based frontend to display live metrics. 
+      The system was successfully tested on a production line for anomaly detection and early warning.
     </p>
   </div>
 </div>
 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
-  <img src="/images/project_doa.png" alt="DOA Estimation" style="width: 150px; height: auto; margin-right: 15px;">
+  <img src="/images/project_app.png" alt="CampusApp" style="width: 150px; height: auto; margin-right: 15px;">
   <div>
-    <b style="color: #4a4a83;">Noise-Resistant DOA Estimation</b>
+    <b style="color: #4a4a83;">Campus Utility App</b>
     <br>
     <p>
-      An applied signal processing project that built a direction-of-arrival estimation algorithm for
-      sound localization in noisy environments. 
-      I implemented the algorithmic core in Python using NumPy and SciPy, 
-      validated robustness with real-world microphone array recordings, 
-      and co-led the documentation and results analysis.
+      Built a mobile app for students to access course schedules, announcements, and group collaboration tools. 
+      The app was developed with Flutter for cross-platform support, with Firebase providing authentication 
+      and cloud storage. I implemented the user login system, notification push service, and database schema. 
+      The app was deployed for internal use among 200+ students.
     </p>
   </div>
 </div>
