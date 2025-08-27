@@ -4,8 +4,6 @@ permalink: /publications/
 author_profile: true
 ---
 
-Publication Lists:  
-======  
 <b>*</b> indicates <b>equal contribution</b>. <b>⊕</b> indicates <b>Papers with students I mentored</b>.
 
 ## **Preprints / Under Review**
