@@ -7,18 +7,21 @@ main:
   #   url: /talks/    
 
   # - title: "Teaching"
-  #   url: /teaching/    
-  - title: "CV"
-    url: /cv/
-
-  - title: "CAD with Eye-tracking"
-    url: /eyetracking/  
-
-  - title: "Healthcare Foundation Models"
-    url: /largemodels/
+  #   url: /teaching/  
 
   - title: "Publications"
     url: /publications/
+    
+  - title: "Projects"
+    url: /projects/
+
+  - title: "Honors and Awards"
+    url: /honors/  
+
+  - title: "Others"
+    url: /others/
+
+
         
   # - title: "Blog Posts"
   #   url: /year-archive/
