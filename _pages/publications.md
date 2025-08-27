@@ -8,7 +8,7 @@ author_profile: true
 
 ## **Preprints / Under Review**
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
-  <img src="/images/publication_doa.png" alt="DOA Estimation" style="width: 150px; height: auto; margin-right: 15px;">
+  <img src="/images/2022-LGF.png" alt="DOA Estimation" style="width: 150px; height: auto; margin-right: 15px;">
   <div>
     <a href="#" style="color: #4a4a83;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#4a4a83';"><b> Noise-Resistant DOA Estimation for Low-Cost Robotics </b></a>
     <br>
@@ -19,7 +19,7 @@ author_profile: true
 
 ## **Conferences**
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
-  <img src="/images/publication_cloudpoint.png" alt="CloudPoint" style="width: 150px; height: auto; margin-right: 15px;">
+  <img src="/images/2022-SAINR.png" alt="CloudPoint" style="width: 150px; height: auto; margin-right: 15px;">
   <div>
     <a href="#" style="color: #4a4a83;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#4a4a83';"><b> CloudPoint: Robust Point Cloud Recognition in Complex Scenes </b></a>
     <br>
@@ -30,7 +30,7 @@ author_profile: true
 
 ## **Journals**
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
-  <img src="/images/publication_generavid.png" alt="GeneraVid" style="width: 150px; height: auto; margin-right: 15px;">
+  <img src="/images/ChatCAD.png" alt="GeneraVid" style="width: 150px; height: auto; margin-right: 15px;">
   <div>
     <a href="#" style="color: #4a4a83;" onmouseover="this.style.color='black';" onmouseout="this.style.color='#4a4a83';"><b> GeneraVid: Diffusion-based Short Video Generation </b></a>
     <br>
